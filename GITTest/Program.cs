@@ -12,6 +12,7 @@ namespace GITTest
         /// The main entry point for the application.
         /// testt
         /// testt2
+        /// testbranch
         /// </summary>
         [STAThread]
         static void Main()
